@@ -1,0 +1,8 @@
+prefix=/home/muntaham/recruitment1/devel
+
+Name: turtlebot_muntaham
+Description: Description of turtlebot_muntaham
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
